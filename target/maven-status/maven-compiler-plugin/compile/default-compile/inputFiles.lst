@@ -1,0 +1,15 @@
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/service/AuthenticationService.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/repository/ProductRepository.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/repository/UserGroupRepository.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/model/Otp.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/model/Product.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/model/UserGroup.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/repository/OtpRepository.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/repository/ShowcaseRepository.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/service/AuthenticationServiceImpl.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/model/Showcase.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/model/Account.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/model/User.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/App.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/rest/AuthResource.java
+/home/jonathan/inseni/src/main/java/com/playfair/inseni/repository/AccountRepository.java
